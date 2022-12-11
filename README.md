@@ -37,8 +37,12 @@ If you are using **Tangram_CPU_Double**, you should have 3 output files:
 
 ### Checklist
 
-1. filter values must be the same for both Tangram_GPU and Tangram_CPU
-2. marker genes must be the same for both Tangram_GPU and Tangram_CPU
+1. **Filter values** must be the same for both Tangram_GPU and Tangram_CPU
+2. **Marker genes** must be the same for both Tangram_GPU and Tangram_CPU
+
+### Process
+The choice of genes to visualize can be done in the variable **GOI** in **2.4 - inspect predictions**.
+
 
 ### Output
 Tangram_CPU pipeline has 0 output files.
